@@ -1,4 +1,4 @@
-# Hi there! 👋🏻 I'm Nic Blaize! I'm finally fulfilling my dreams of becoming a full-stack web developer.
+# Hi there! 👋🏻 I'm Nic Blaize! I'm fulfilling my dreams of becoming a full-stack web developer.
 
 - 🔭 I’m  enrolled in a BCS coding bootcamp through the University of Minnesota. It's tough but I'm learning quickly!
 - 🌱 I’m currently learning React, Postgres, Javascript/Typescript, MongoDB, Python, and much more
