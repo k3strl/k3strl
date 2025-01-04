@@ -6,4 +6,4 @@
 - 😄 Pronouns: they/them & he/him
 - 📫 How to reach me: email me at i(dot)k3strl at gmail
 - ⚡ Fun fact: octopuses have 3 hearts, and 1 stops beating when they swim! 🐙
-- 🏳️‍⚧️ Trans (human) rights! 💪🏻
+- 🏳️‍⚧️ Trans 💪🏻 rights! 🏳️‍⚧️
