@@ -1,4 +1,4 @@
-# Hi there! 👋🏻 I'm Nic Blaize, a full-stack web developer.
+# Hi there! 👋🏻 I'm Nic, a full-stack web developer.
 
 - 🔭 I’m  enrolled in the edX coding bootcamp through the University of Minnesota. It's tough and fast-paced, but I'm learning quickly!
 - 🌱 I’m currently learning React, Postgres, Javascript/Typescript, MongoDB, Python, and much more
