@@ -8,4 +8,6 @@
 
 ## [Portfolio](https://nb-portfolio-2025.vercel.app/)
 
+
+## Stats
 ![k3strl's Stats](https://github-readme-stats.vercel.app/api?username=k3strl&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
