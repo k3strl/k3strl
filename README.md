@@ -6,4 +6,6 @@
 - 📫 How to reach me: comment, message, or email me.
 - ⚡ Fun fact: octopuses have 3 hearts, and 1 stops beating when they swim! 🐙
 
+## [Portfolio](https://nb-portfolio-2025.vercel.app/)
+
 ![k3strl's Stats](https://github-readme-stats.vercel.app/api?username=k3strl&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
