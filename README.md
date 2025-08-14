@@ -1,6 +1,6 @@
 # Hi there! 👋🏻 I'm Nic, a full-stack web developer.
 
-- 🔭 I completed the University of Minnesota's edX full-stack coding bootcamp March 3, 2024.
+- 🔭 I completed the University of Minnesota's edX full-stack coding bootcamp March 3, 2025.
 - 🌱 I’ve built projects using HTML/CSS, Javascript/Typescript, React, PostgreSQL, Mongoose, MongoDB, Python, & GraphQL
 - 🤓 My interests are varied and include plants, animals, & crafting. Lately, I've been digging into Raspberry Pis, Linux distros, and sysadmin stuff, and planning my first homelab.
 - 📫 How to reach me: comment, message, or email me.
