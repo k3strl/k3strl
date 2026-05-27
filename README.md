@@ -1,5 +1,5 @@
 # Hi there! 👋🏻 I'm Nic, a full-stack web developer.
-## [>>Portfolio<<](https://k3strl.com)
+## [>>Portfolio<<](https://dev-portfolio.k3strl.workers.dev)
 
 - 🔭 I completed the University of Minnesota's edX full-stack certification on March 3, 2025, with a 97%.
 - 🌱 I’ve built projects using HTML/CSS, Javascript/Typescript, React, PostgreSQL, Mongoose, MongoDB, Python, & GraphQL.
